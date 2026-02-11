@@ -1,1 +1,1 @@
-# fangirlbooth2
+Beautiful Stranger — Polished structure. Replace placeholder assets with final artwork.
